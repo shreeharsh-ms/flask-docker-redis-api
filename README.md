@@ -41,7 +41,7 @@ With Docker Compose, deployment and management of the application stack is simpl
 
 ---
 
-## 📖 Summary
+## Summary
 
 This project demonstrates practical implementation of:  
 - Building optimized Docker images for Python applications.  
