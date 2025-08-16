@@ -55,9 +55,13 @@ These practices form a strong foundation for developing **scalable, production-r
 
 ## 📂 Project Structure
 -├── app.py # Flask app code
+
 -├── requirements.txt # Python dependencies
+
 -├── Dockerfile # Docker build config
+
 -├── docker-compose.yml # Docker Compose for Flask + Redis
+
 -└── README.md # Project documentation
 
 
